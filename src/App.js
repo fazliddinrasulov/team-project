@@ -14,7 +14,11 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer">
+<<<<<<< dev1
           Salom
+=======
+          😂
+>>>>>>> main
         </a>
       </header>
     </div>
