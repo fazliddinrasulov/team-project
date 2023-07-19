@@ -14,7 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer">
-          Learn React Miraziz
+          Learn Margin Name
         </a>
       </header>
     </div>
